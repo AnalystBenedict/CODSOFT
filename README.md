@@ -29,3 +29,31 @@ Age group 20 -40 survived more compared to others.
 
 
 
+.....
+# Task 2: Iris Flower Classification
+
+
+
+....
+# Project Objective:
+Build a model to classify iris flower species based on their sepals and petals measurement.
+
+
+....
+# Data sourcing:
+Data was gotten from kaggle
+
+
+.....
+# Data Transfomation:
+Data quality was checked
+
+
+......
+# Findings & Recommendation
+The Virginica species has the highest average petal length and width, The Setosa species has the highest average sepal width among other species.
+
+
+
+
+
